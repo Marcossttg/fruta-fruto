@@ -1,0 +1,15 @@
+.l-sobre {
+    text-align: center;
+}
+
+@media screen and (min-width: 0 ) {
+    .l-sobre {
+        padding: 2.5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px ) {
+    .l-sobre{
+        padding: 2.5rem;
+    }
+}

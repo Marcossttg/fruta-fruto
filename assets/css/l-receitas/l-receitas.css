@@ -1,0 +1,23 @@
+.l-receitas {
+    background-color: #E5E5E5;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 0 ) {
+    .l-receitas {
+        padding: 5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px ) {
+    .l-receitas {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 992px ) {
+    .l-receitas {
+        padding: 5rem 0 0 5rem;
+    }
+}
